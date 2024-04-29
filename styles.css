@@ -1,0 +1,42 @@
+ header img {
+
+        display: flex;
+        justify-content: center;
+        height: 150px;
+    
+}
+
+
+h1 {
+
+    background-color: rgb(85, 241, 85);
+    font-size: 39px;
+    display: flex;
+    justify-content: center;
+    border-color: chartreuse;
+    border-radius: 2px;
+    border-style: solid;
+
+}
+
+ p {
+
+    background-color: rgb(191, 241, 191);
+    font-size: 20px;
+    display: flex;
+    justify-content: left;
+    
+}
+
+nav ul {
+    list-style: calc(4);
+    padding: 5;
+}
+
+.gallery img {
+
+    width: 200px;
+    margin: 12px;
+    border-radius: 5px;
+
+}
